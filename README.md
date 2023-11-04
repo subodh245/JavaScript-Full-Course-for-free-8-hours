@@ -16,8 +16,37 @@ things i learn
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ![Screenshot 2023-11-04 105104](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/6ad49d6e-c277-411f-948a-c3e0cd09119a)
 
 
 
+
+
+
+
+
+
+
+
+
+
 ![Capture](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/eac0eb39-ddda-432e-a901-a3b0a76e3a92)
+
+
+
+
+
+
+
