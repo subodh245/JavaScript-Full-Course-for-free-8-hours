@@ -2,19 +2,27 @@
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
 
 11/12/2023 sunday
-thing i hab=ve learn today 
+thing i have learn today 
 1) some useful string method
 2) method chaining it is procceses of calling one method after anather in one line
 3) if statement , if statment is if somthing is true than do this if not than dont
 4) switches it is an alternative of if else state ment but it is more convineant and more efficient
 5) strict equality oprator this oprater compare both values and datatype
+6) 
 ![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/89eb0b60-5770-4dab-b92b-4146381f9ffa)
+
 ![Capture3](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/654270b1-8c1d-4e65-a8da-ad6d4fe961b3)
+
 ![Capture4](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/d29df000-bae1-4877-99a5-9a9a6f7a9a65)
+
 ![Capture5](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/742f3204-6fe3-40bd-a3f3-9621f2f982f3)
 
+
 erors that i didnt get solution of:
-checked property
+
+
+                                                           checked property
+
 ![checked](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/0fd7c062-e0fb-4ee3-86df-ed7460d58b2f)
 
 
