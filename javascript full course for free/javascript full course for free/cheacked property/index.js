@@ -6,7 +6,7 @@ document.getElementById("myButten").onclick = function() {
     const masterCard = (document.getElementById("masterCard"));
     const paypalBtn = (document.getElementById("paypalBtn"));
 
-    if ((document.getElementById("myCheckBox")).checked) {
+    if (checkbox.checked) {
         console.log("you are subscribed");
     }
     else{
