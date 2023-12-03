@@ -1,6 +1,30 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
 
+today 3 of dec 2023 
+ thing i learn today 
+ 1) while loop  for iteration
+ 2) do while loop  this loop executes the code first and than it checks the condition
+ 3) for loop in this loop we have to do intialization , condition and incremnt
+ 4) nested for loop that is forloop in parent forloop and i learn break and countinue statment
+ 5) overviwe of functions in javascript
+ 6)  return statement this returns the value back to the place from where it invoks
+ 7)  ternary opraters that shourt cut of if else statement
+ 8)  var vs let let is more effitiant and does not change the window.prompt
+
+
+
+-
+-
+-
+-
+-         one month gap
+-
+-
+-
+-
+
+
 11/12/2023 sunday
 thing i have learn today 
 1) some useful string method
