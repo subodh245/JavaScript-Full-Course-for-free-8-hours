@@ -13,7 +13,8 @@ things i learn today
 
 
 some of pitures 
-
+![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/3f1528ef-4df9-4401-b28e-c492ef212633)
+![Capture](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/82b0d86d-a280-406d-b10b-14c3d90e27ab)
 
 
 
