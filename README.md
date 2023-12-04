@@ -1,6 +1,22 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
 
+today 4 of dec 2023
+things i learn today 
+1) tamplate litral (``) we use this for giving embaded value or variable
+2) format currency
+3) i made a basic number guessing web game
+4) i made tempreture conversion program
+5) basic of array
+6) basic of loop through array for printing the alement in array
+7) bashic sortring techneque for sorting array
+
+
+some of pitures 
+
+
+
+
 today 3 of dec 2023 
  thing i learn today 
  1) while loop  for iteration
