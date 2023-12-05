@@ -1,5 +1,23 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
+today 5 of dec 2023
+things i learn today
+1) 2D array it use for print a element from couple of arrays
+2) spread oprator (...) it unpack the element inside the array
+3) rest parameter it add argument into array
+4) callbacks
+5) arrayforeach() method this is use to access all elemnet in array list
+6) array map method is used to give argument to each element in array list
+7) array filter method it makes array of in each element in parrent array list
+8) array reduce method it is addition of elements in array list
+9) sort array of number used for sorting array in acending order or in decending order
+10) function expression its an function without function name
+11) arrow function expression this is used instead of treditional function when the task is smaller
+
+some of picture 
+![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/086836a3-0419-41dc-9d5a-24dda562d436)
+![Capture2](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/6a9c7362-c5fd-4596-8fd5-5057e6b55367)
+
 
 today 4 of dec 2023
 things i learn today 
