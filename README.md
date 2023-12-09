@@ -1,5 +1,9 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
+
+![Capture5](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/8728162e-e866-480b-a19a-6a5837a30570)
+
+
 today 5 of dec 2023
 things i learn today
 1) 2D array it use for print a element from couple of arrays
