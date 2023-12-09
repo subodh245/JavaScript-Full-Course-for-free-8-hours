@@ -1,6 +1,18 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
 
+1) maps it stores main value of data type
+2) object it is sum of methods and properties
+3)this (this . ) keyword its reffrance to object  
+4)classes we can make one class and use it many times and increases reusibility 
+5) constructor it use to accept arguments and assing property
+6)static keyword 
+7) inharitance
+8)supper keyword 
+9)getters and setters 
+10) object as argument
+11) array of object
+
 ![Capture5](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/8728162e-e866-480b-a19a-6a5837a30570)
 
 
