@@ -1,6 +1,20 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
+today 10 of dec 2023
+1) anonymous object it is object without name
+2) error handling
+3) settimeout method it gets the function after a miliseconds
+4) setInterval method it gets the fuunction again an again
+5) date objects this is used to print date
+   
 
+some of screenshot
+![Capture7](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/690b879d-3b02-4051-97a6-4c941fc1f06f)
+![Capture8](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/54442d9d-8b04-4ee0-9117-707b5d740d76)
+![Capture9](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/bf4d1192-e0ec-4fc9-ba3b-0ada88cf9c76)
+
+today 9 of dec 2023
+things i learn today
 1) maps it stores main value of data type
 2) object it is sum of methods and properties
 3)this (this . ) keyword its reffrance to object  
