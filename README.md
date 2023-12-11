@@ -1,5 +1,17 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
+today 11 of dec 2023
+1) (asynchronous: it runs randomly) (synchronous: it runs step by step)
+2) console.time it is use to measure output time 
+3) promises
+4) assync it returns promise
+5) await it wait for a promise
+
+some of photos
+![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/5be383e3-63a6-482c-a150-88622eae9513)
+![Capture2](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/5b482cb2-2110-4601-a818-9d9de33aa6f9)
+
+
 today 10 of dec 2023
 1) anonymous object it is object without name
 2) error handling
