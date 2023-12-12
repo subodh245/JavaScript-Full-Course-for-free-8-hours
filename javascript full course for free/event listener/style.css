@@ -1,0 +1,14 @@
+#innerDiv{
+    background-color: brown;
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+}
+
+
+
+#outerDiv{
+    background-color: brown;
+    width: 200px;
+    height: 200px;   
+}
