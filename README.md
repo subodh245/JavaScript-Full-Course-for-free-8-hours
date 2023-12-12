@@ -1,5 +1,25 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
+
+today 12 of dec 2023
+things i learn today
+1) ES6 Modules it is use for reusing one code in anather file
+2) Dom intro (document object model) it use to change content
+3) element selectors it is use for selecting element and use it in code
+4) DOM traversal it is use to insert or delete element from existing list
+5) i learn to add and change HTML elements
+6) i learn to add and change css elements
+7) events = do somthing when somthing happens like change the color of object on click
+8) addEventListnermethod it is use to add event ex. mouseover eplanation when there will be mouse on object change the color of object
+
+some pictures
+![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/48d3b69a-324a-40e9-acdb-75681070a485)
+![Capture2](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/4ad10c58-cf76-4cfe-bf1d-c8a2cb99af61)
+![Capture3](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/4dca5cca-7d55-493d-ac99-339f179653b9)
+
+
+
+
 today 11 of dec 2023
 1) (asynchronous: it runs randomly) (synchronous: it runs step by step)
 2) console.time it is use to measure output time 
