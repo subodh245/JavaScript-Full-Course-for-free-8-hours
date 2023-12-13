@@ -1,6 +1,19 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
 
+1) i learn showing and hiding html elements
+2) detecting key presses it detcts what usser had press and how many time it has been pressed
+3) i learn some animation techniques 1)to move a square from right to left 2) top to bottom 3) roating a square
+4) canvas API its used for makeing shaps like circle/square/lines/rectangle etc
+5) i learn about window object it is used to edit the interface
+
+some of pictures
+![Capture3](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/8baa94cc-9b76-45a5-a764-5f470d2485a1)
+![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/8e4d9a2a-3d1f-480c-99d5-8f54dd3298ef)
+![Capture2](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/688c9eed-6346-45dc-82da-f0d42bff6df3)
+
+
+
 today 12 of dec 2023
 things i learn today
 1) ES6 Modules it is use for reusing one code in anather file
