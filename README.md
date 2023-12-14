@@ -3,7 +3,8 @@ tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
 
 today 14 of dec 2023
 things I learn today
-1)I learn about cookies it is a small amount of storage that store user information 
+
+1) I learn about cookies it is a small amount of storage that store user information 
 2) i learn to make Stop Watch with | pause | reset | start | function 
 
 
