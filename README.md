@@ -1,6 +1,17 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
 
+today 14 of dec 2023
+things I learn today
+1)I learn about cookies it is a small amount of storage that store user information 
+2) i learn to make Stop Watch with | pause | reset | start | function 
+
+
+some of pictures
+![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/a83e9cad-05ee-4a75-ac7e-f298215f4765)
+![Capture2](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/745ab49e-7ac8-4098-8bfd-ba8f053508a2)
+
+
 1) i learn showing and hiding html elements
 2) detecting key presses it detcts what usser had press and how many time it has been pressed
 3) i learn some animation techniques 1)to move a square from right to left 2) top to bottom 3) roating a square
