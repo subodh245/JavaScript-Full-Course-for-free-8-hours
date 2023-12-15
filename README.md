@@ -1,6 +1,20 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
 
+today 15 of dec 2025
+things I learn today
+I learn to make 2 games today 
+1) tic tac toe in this game we have to check the 3 simmilar of "O" or simmilar of "X" in a row or column or digonal 
+2) rock paper scissors 
+
+
+some of pictures 
+![Capture2](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/a3f5820b-484f-470e-93c3-1adc8722c279)
+![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/56758dff-51e1-4e8e-9d06-7b49cfebe370)
+
+
+
+
 today 14 of dec 2023
 things I learn today
 
