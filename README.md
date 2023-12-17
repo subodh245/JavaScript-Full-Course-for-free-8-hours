@@ -1,5 +1,21 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
+tings i learn today
+1) I learn to make a snake game
+2) function that is used in this game are 1) start game function
+                                          2) next tick function | sub-functions of next tick function
+                                                                  1) move snake  
+                                                                  2) draw snake 
+                                                                  3) check game over 
+                                                                  4) clear board
+                                                                  5) draw food
+                                       
+                                          3) display game over     
+                                          4) reset game
+ 
+some of pictures
+![Capture1](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/c3bf993f-4a48-41a1-acc1-9d86d0d94500)
+
 
 today 15 of dec 2025
 things I learn today
