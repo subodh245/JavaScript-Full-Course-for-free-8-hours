@@ -1,5 +1,29 @@
 # JavaScript-Full-Course-for-free-8-hours
 tutorial link:- https://youtu.be/8dWL3wF_OMw?si=NVjSbNJpqpG0VNqk
+
+today 19 of dec 2023
+things I learn today 
+1) I learn to make pong game
+2) function that is used in this game are 
+   1) start game fucntion
+   2) nexttick function this is the main function of the game
+   3) clear board function
+   4) draw paddle funcrion
+   5) create ball function
+   6) move ball function
+   7) draw ball function
+   8) check colission function
+   9) change direction function
+   10) update score function
+   11) resetgame function
+
+
+picture
+![Capture2](https://github.com/subodh245/JavaScript-Full-Course-for-free-8-hours/assets/118099441/02b5e411-cfe7-4492-a9a9-e270c4a4da7e)
+
+
+
+
 tings i learn today
 1) I learn to make a snake game
 2) function that is used in this game are 1) start game function
